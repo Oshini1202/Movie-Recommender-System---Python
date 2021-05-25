@@ -1,2 +1,3 @@
 # Movie-Recommender-System---Python
-Implementation of Movie Recommender System in python
+
+This is a basic movie recommendation system using Python and Pandas.
